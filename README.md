@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Fullstack App Developer — turning ideas into seamless digital experiences.</h3>
+<h3 align="center">Fullstack Mobile App Developer — turning ideas into seamless digital experiences.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshrajput1506&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
-
----
-
-- 🌱 Currently learning **Go** & **Flutter**  
-- 💬 Ask me about **Kotlin** and **Android Development**  
-- 👨‍💻 Check out my portfolio: [harshone.dev](https://harshone.dev)  
-- 📫 Reach me at **harshrajput2906@gmail.com**  
-- ⚡ Fun fact: **I can code without a cup of coffee**
-
----
 
 ### 🌐 Connect with me
 <p align="left">
